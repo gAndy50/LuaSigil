@@ -12,7 +12,7 @@ alien = require("alien")
 
 --Load sigil library
 
-sigil = alien.load("C:/Users/Andy/Documents/Lua/LuaSigil/sigil.dll")
+sigil = alien.load("Path to sigil.dll")
 
 --Sigil Flags
 
