@@ -4,7 +4,7 @@
 --Icy Viking Games     --
 --Lua 5.1              --
 --Sigil 0.9.0          --
---Copyright (c) 2023   --
+--Copyright (c) 2024   --
 -------------------------
 
 --load the alien library
